@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-### Utilisation manuelle
+## Utilisation manuelle
 
   - Récupérer le git
     ```powershell
@@ -16,4 +16,3 @@
     ```powershell
       .\login_history.ps1
     ```
-    
