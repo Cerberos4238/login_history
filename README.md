@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-## Utilisation manuelle
+## Utilisation
 
   - Récupérer le git
     ```powershell
@@ -16,3 +16,11 @@
     ```powershell
       .\login_history.ps1
     ```
+  - Après utilisation ne pas oublier de repasser la politique d'éxécution des scripts en restricted
+    ```powershell
+      Set-ExecutionPolicy Restricted
+    ```
+
+### Résultat
+
+![login_history](https://github.com/user-attachments/assets/0e04c797-5143-48c8-a013-90853b90b96b)
